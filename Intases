@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instases - Asesoría Instantánea en Redes Sociales</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #1d3557;
+            color: white;
+            text-align: center;
+            padding: 50px 0;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+        }
+        section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .cta-button {
+            background-color: #e63946;
+            color: white;
+            padding: 15px 30px;
+            font-size: 1.2em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #d62c3f;
+        }
+        footer {
+            background-color: #f1faee;
+            text-align: center;
+            padding: 20px 0;
+            font-size: 0.9em;
+        }
+        footer a {
+            color: #1d3557;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Conecta, aprende y crece con Instases: asesoría instantánea en redes sociales</h1>
+    <p>En Instases, creemos que todos pueden aprender a aprovechar sus redes sociales. Te brindamos asesoría instantánea, enseñanza personalizada y el apoyo que necesitas para avanzar digitalmente.</p>
+</header>
+
+<section>
+    <h2>Beneficios</h2>
+    <ul>
+        <li><strong>Asesoría instantánea:</strong> Obtén respuestas rápidas y soluciones inmediatas para cualquier duda o problema con tus redes sociales.</li>
+        <li><strong>Adaptado a todas las edades:</strong> Ofrecemos apoyo a jóvenes, adultos y adultos mayores, adaptando nuestras asesorías a cada nivel de conocimiento digital.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Características principales</h2>
+    <ul>
+        <li><strong>Asesoría en Redes Sociales:</strong> Trabajamos contigo en plataformas como Instagram, Facebook, TikTok y Meta, adaptando nuestras recomendaciones a tus necesidades y objetivos específicos.</li>
+        <li><strong>Horarios Flexibles:</strong> Estamos disponibles de lunes a sábado, de 09:00 a 19:00 horas, para ofrecerte asesoría y acompañamiento en el momento que lo necesites.</li>
+        <li><strong>Atención Personalizada a Nivel Nacional:</strong> Ofrecemos servicios para todo Chile, realizando videollamadas y analizando a fondo tus dudas o problemas, sin importar en qué parte del país te encuentres.</li>
+        <li><strong>Soluciones Prácticas y Efectivas:</strong> A través de nuestras videollamadas, analizamos y resolvemos tus dudas de manera inmediata, ayudándote a avanzar rápidamente en tus redes sociales.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>¿Tienes dudas? ¡Hablemos! Reserva tu videollamada de asesoría ahora.</h2>
+    <a href="mailto:instases.spa@gmail.com" class="cta-button">¡Contáctanos!</a>
+</section>
+
+<footer>
+    <p>Contáctanos:</p>
+    <p>
+        <a href="mailto:instases.spa@gmail.com">instases.spa@gmail.com</a> | 
+        <a href="mailto:javieralop.gonzalez@gmail.com">javieralop.gonzalez@gmail.com</a>
+    </p>
+    <p>Síguenos en nuestras redes sociales:</p>
+    <p>
+        <a href="https://www.instagram.com/instaseschile" target="_blank">Instagram</a>
+        <!-- Agrega enlaces de Facebook y TikTok si los tienes -->
+    </p>
+    <p>© 2024 Instases. Todos los derechos reservados.</p>
+    <p>
+        <a href="#">Política de privacidad</a> | 
+        <a href="#">Términos y condiciones</a>
+    </p>
+</footer>
+
+</body>
+</html>
